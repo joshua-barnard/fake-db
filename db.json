@@ -1,5 +1,5 @@
 [
-{ id: 1, nameSingular: 'pizza box', namePlural: 'pizza boxes' },
+  { id: 1, nameSingular: 'pizza box', namePlural: 'pizza boxes' },
   { id: 2, nameSingular: 'toothpaste tube', namePlural: 'toothpaste tubes' },
   { id: 3, nameSingular: 'dunny role', namePlural: 'dunny roles' }
- ] 
+] 
